@@ -1,4 +1,5 @@
 # 🚀 Java Project Collection
+# 🖥️ Java Projects
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Build Tool](https://img.shields.io/badge/Maven/Gradle-blue?style=for-the-badge&logo=apachemaven)
